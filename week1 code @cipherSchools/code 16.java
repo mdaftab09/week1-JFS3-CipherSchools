@@ -5,10 +5,6 @@
 //--central code
 
 
-
-
-
-
 public class Furniture {
     int width;
     int height;
@@ -34,4 +30,5 @@ class Almira extends Furniture{
     void foo(){width=100; height=200;display("Almira");}
    
 }
+
 
