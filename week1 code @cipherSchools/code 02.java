@@ -1,4 +1,4 @@
-// Md Aftab Raza ANsari 12005279
+// Md Aftab Raza Ansari 12005279
 //code 2
 
 
@@ -25,4 +25,5 @@ public class teat2 {
      
 
     }
+
 }   
