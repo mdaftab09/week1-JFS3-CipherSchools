@@ -1,6 +1,7 @@
 //Md Aftab Raza Ansari 12005279
 //code 15
 //Inheritance in java
+
 public class Furniture {
     int width;
     int height;
@@ -18,3 +19,4 @@ class Almira{
     int height;
 }
 --complexity : Memory Occupied = n*8 bytes here n is count of classes.
+
